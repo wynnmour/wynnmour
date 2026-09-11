@@ -9,7 +9,7 @@
 - 🌱 I'm currently learning computer basics & programming
 - 💬 Ask me about programming
 - 📫 How to reach me: QQ：2950397015
-- 😄 Name: Wu Yifei
+- 😄 Name: 吴怡霏
 - ⚡ Fun fact: I come from Xinjiang. I can dance and play the piano, love playing games, and I'm working out recently.
 
 ---
