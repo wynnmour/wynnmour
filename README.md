@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**wynnmour/wynnmour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  < img src="https://komarev.com/ghpvc/?username=wynnmour&style=flat-square&color=ff69b4" />
+</p >
 
-Here are some ideas to get you started:
+### About me
+- 🔭 I'm currently working on personal small projects
+- 🌱 I'm currently learning computer basics & programming
+- 💬 Ask me about programming
+- 📫 How to reach me: QQ：2950397015
+- 😄 Name: Wu Yifei
+- ⚡ Fun fact: I come from Xinjiang. I can dance and play the piano, love playing games, and I'm working out recently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  < img src="https://github-readme-stats.vercel.app/api?username=wynnmour&show_icons=true&theme=rose_pine&rank_icon=github" height="170" />
+  < img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wynnmour&layout=compact&theme=rose_pine" height="170" />
+</p >
+
+## 🛠️ Tech Stack
