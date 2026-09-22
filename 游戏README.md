@@ -37,7 +37,7 @@ ICE/
 ├─ make_previews.py     # 无头生成各界面预览图（开发用）
 ├─ requirements.txt
 ├─ run_game.bat
-├─ README.md
+├─ 游戏README.md
 ├─ tests/
 │  └─ test_logic.py     # 逻辑测试（路径检测 / 关卡可解性）
 └─ assets/
